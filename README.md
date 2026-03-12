@@ -1,9 +1,9 @@
 ## Hi!
 
 ### Currently...
-- I'm working on comparative studies of genome regulatory elements 
-- I'm assisting bioinformatic courses in the University of Vienna
-- I'm finishing my MSc in Evolutionary Genomics and Systems Biology
+- 🏃🏼‍♀️‍➡️ I'm working on comparative studies of genome regulatory elements 
+- 🏃🏼‍♀ I'm assisting bioinformatic courses in the University of Vienna
+- 🏃🏼‍♀️‍➡️ I'm finishing my MSc in Evolutionary Genomics and Systems Biology
 
 ### Skills
 - **Languages:** Python, bash, R, Snakemake
