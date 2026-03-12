@@ -1,5 +1,4 @@
 ## Hi!
----
 
 ### Currently...
 - 🏃🏼‍♀️‍➡️ I'm working on comparative studies of genome regulatory elements 
